@@ -14,9 +14,9 @@
 			<mime-type>text/html</mime-type>
 		</supports>
 		<portlet-info>
-			<title>Sample JSP</title>
-			<short-title>Sample JSP</short-title>
-			<keywords>Sample JSP</keywords>
+			<title>Sample JSP by panser</title>
+			<short-title>Sample JSP by panser</short-title>
+			<keywords>Sample JSP by panser</keywords>
 		</portlet-info>
 		<security-role-ref>
 			<role-name>administrator</role-name>
