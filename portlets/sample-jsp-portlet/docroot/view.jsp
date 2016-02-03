@@ -18,4 +18,4 @@
 
 <portlet:defineObjects />
 
-This is the <strong>Sample JSP Portlet</strong>. Use this as a quick way to include JSPs.
+This is the <strong>Sample JSP Portlet ( by panser)</strong>. Use this as a quick way to include JSPs.
